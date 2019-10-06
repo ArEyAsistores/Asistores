@@ -1,0 +1,23 @@
+C:\Users\ArEy\source\repos\Copro3 Project\Copro3 Project\bin\Debug\Copro3 Project.exe.config
+C:\Users\ArEy\source\repos\Copro3 Project\Copro3 Project\bin\Debug\Copro3 Project.exe.manifest
+C:\Users\ArEy\source\repos\Copro3 Project\Copro3 Project\bin\Debug\Copro3 Project.application
+C:\Users\ArEy\source\repos\Copro3 Project\Copro3 Project\bin\Debug\Copro3 Project.exe
+C:\Users\ArEy\source\repos\Copro3 Project\Copro3 Project\bin\Debug\Copro3 Project.pdb
+C:\Users\ArEy\source\repos\Copro3 Project\Copro3 Project\obj\Debug\Copro3_Project.addWords.resources
+C:\Users\ArEy\source\repos\Copro3 Project\Copro3 Project\obj\Debug\Copro3_Project.Form1.resources
+C:\Users\ArEy\source\repos\Copro3 Project\Copro3 Project\obj\Debug\Copro3_Project.Form2.resources
+C:\Users\ArEy\source\repos\Copro3 Project\Copro3 Project\obj\Debug\Copro3_Project.MulChoice_Form.resources
+C:\Users\ArEy\source\repos\Copro3 Project\Copro3 Project\obj\Debug\Copro3_Project.MulC_Add_Q.resources
+C:\Users\ArEy\source\repos\Copro3 Project\Copro3 Project\obj\Debug\Copro3_Project.Properties.Resources.resources
+C:\Users\ArEy\source\repos\Copro3 Project\Copro3 Project\obj\Debug\Copro3_Project.Welcome.resources
+C:\Users\ArEy\source\repos\Copro3 Project\Copro3 Project\obj\Debug\Copro3_Project.WordGames.resources
+C:\Users\ArEy\source\repos\Copro3 Project\Copro3 Project\obj\Debug\Copro3 Project.csproj.GenerateResource.cache
+C:\Users\ArEy\source\repos\Copro3 Project\Copro3 Project\obj\Debug\Copro3 Project.csproj.CoreCompileInputs.cache
+C:\Users\ArEy\source\repos\Copro3 Project\Copro3 Project\obj\Debug\Copro3 Project.exe.manifest
+C:\Users\ArEy\source\repos\Copro3 Project\Copro3 Project\obj\Debug\Copro3 Project.application
+C:\Users\ArEy\source\repos\Copro3 Project\Copro3 Project\obj\Debug\Copro3 Project.exe
+C:\Users\ArEy\source\repos\Copro3 Project\Copro3 Project\obj\Debug\Copro3 Project.pdb
+C:\Users\ArEy\source\repos\Copro3 Project\Copro3 Project\obj\Debug\Copro3 Project.csprojAssemblyReference.cache
+C:\Users\ArEy\source\repos\Copro3 Project\Copro3 Project\obj\Debug\Copro3 Project.TrustInfo.xml
+C:\Users\ArEy\source\repos\Copro3 Project\Copro3 Project\obj\Debug\Copro3_Project.logInForm.resources
+C:\Users\ArEy\source\repos\Copro3 Project\Copro3 Project\obj\Debug\Copro3_Project.questionList.resources

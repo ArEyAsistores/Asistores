@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Copro3 Project.exe" version="1.0.0.0" publicKeyToken="dbcc022c69efdc82" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Copro3 Project" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Copro3 Project.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Copro3 Project.exe" size="3573672">
+      <assemblyIdentity name="Copro3 Project" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>xiMJZNO0Qf+aAqa2we7nIP+EXizzTb2dH4DYIDDBRP0=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Copro3 Project.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=AREY-11\ArEy" issuerKeyHash="4ab8f5ed6af009b8c6f3afd1bc6991fed0fd1252" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>WGxLgugInm8ZyXFflgKwVB/iQQBijDrFZOnhb0cNqEA=</DigestValue></Reference></SignedInfo><SignatureValue>WzSjnb1B4ETnkgrAWl+pYlGFHPVCmr4MpPdvhTdPDwdwNvxKDUgzVKfKdFS2lAMzIIB/UelBbR70VLS78aRtPr5kXiRK4DepIEZt4W/KlHqs9FdHkYuohnRvLhjZBgFVoNtT/zLF3ENMuQXA4p9VbSesozGh9oZW3trsQnhbC8U=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>7VwOOP7IphL/xU2SV/9cIIVQ5JeKpzydA4+PlZdWSmI8GHiebXSuTyBv0+8gXxBuU6zytciI8bESGtVrQTpAt0gW+FQMVjyV1LHypWUtHQkFG/XZ41tONCrBs60Q4IWIMx0Bw8RpaxS7UvwLzTUnPDZZI6DEBct9U5kTd42UKlk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="40a80d476fe1e964c53a8c620041e21f54b002965f71c9196f9e08e8824b6c58" Description="" Url=""><as:assemblyIdentity name="Copro3 Project.exe" version="1.0.0.0" publicKeyToken="dbcc022c69efdc82" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=AREY-11\ArEy</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>H4fFZWYuCYYw6qX5KBGFh6YrlDrMPH7d8MLvLw4KXik=</DigestValue></Reference></SignedInfo><SignatureValue>4Vw7nZ42MKYNyeJyMQnlGCo2h7zoEsblNQG3NvXwLS/oQgzTKAhOPgLxtNuyH3bySiCY2AyYn8JwyYY38iWYvBt65Za21DH120tAiWlx2hmM6ZY5dXQvPoT1P7TGTVGaC+csSp52nkcQ0lO9vNbpK1xQu5xXMbhu9TSZb8v0j3E=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>7VwOOP7IphL/xU2SV/9cIIVQ5JeKpzydA4+PlZdWSmI8GHiebXSuTyBv0+8gXxBuU6zytciI8bESGtVrQTpAt0gW+FQMVjyV1LHypWUtHQkFG/XZ41tONCrBs60Q4IWIMx0Bw8RpaxS7UvwLzTUnPDZZI6DEBct9U5kTd42UKlk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIByTCCATKgAwIBAgIQJpB9IRC9bKVJtfh5N7pFoTANBgkqhkiG9w0BAQsFADAjMSEwHwYDVQQDHhgAQQBSAEUAWQAtADEAMQBcAEEAcgBFAHkwHhcNMTkwOTIyMTE1MDE0WhcNMjAwOTIxMTc1MDE0WjAjMSEwHwYDVQQDHhgAQQBSAEUAWQAtADEAMQBcAEEAcgBFAHkwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAO1cDjj+yKYS/8VNklf/XCCFUOSXiqc8nQOPj5WXVkpiPBh4nm10rk8gb9PvIF8QblOs8rXIiPGxEhrVa0E6QLdIFvhUDFY8ldSx8qVlLR0JBRv12eNbTjQqwbOtEOCFiDMdAcPEaWsUu1L8C801Jzw2WSOgxAXLfVOZE3eNlCpZAgMBAAEwDQYJKoZIhvcNAQELBQADgYEABBoDprJyJU6gknC7Ay1h9IH8uox5/xxX0YcscZw9Jgtpg3JGrx5TItXiIEaGgtoXzXM8ux0W9PrnJ2PwieTEza5QWbNOK7a8fvwZXMwyqdrc1FlEMt/bsNcu4G3geEzZAur9UlnGfZ7B7M+kkkiVQCg+jOYiLquVna68KHZjKzU=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
